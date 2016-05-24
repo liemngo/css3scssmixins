@@ -9,6 +9,9 @@ Data Source: http://caniuse.com/
 
 ## Changelog:
 ```
-[1.0 (Aug 11, 2015)]
+[1.1] Apr 27, 2016
+- Fix some bugs for property with multiple value
+
+[1.0] Aug 11, 2015
 - Initial Release
 ```
