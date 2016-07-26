@@ -9,6 +9,9 @@ Data Source: http://caniuse.com/
 
 ## Changelog:
 ```
+[1.2] Jul 26, 2016
+- The 2% now be 1.5%
+
 [1.1] Apr 27, 2016
 - Fix some bugs for property with multiple value
 
